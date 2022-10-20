@@ -1,0 +1,12 @@
+
+[1mFrom:[0m /home/moringa/Development/code/phase-3/phase-3-ruby-oo-basics-instance-variables-lab/lib/dog.rb:17 :
+
+    [1;34m12[0m: lassie = [1;34;4mDog[0m.new
+    [1;34m13[0m: lassie.name = [31m[1;31m"[0m[31mLassie[1;31m"[0m[31m[0m
+    [1;34m14[0m: 
+    [1;34m15[0m: puts lassie.name
+    [1;34m16[0m: 
+ => [1;34m17[0m: binding.pry
+    [1;34m18[0m: 
+    [1;34m19[0m: 
+
